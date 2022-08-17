@@ -14,6 +14,6 @@ I’m a technology and design enthusiast, willing to learn more and more, lookin
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smartinsmarcos)](https://www.linkedin.com/in/smartinsmarcos/)
-[![Gmail Badge](https://img.shields.io/badge/-marcos.kakto@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.kakto@gmail.com)](mailto:marcos.kakto@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@marcos.smartins-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/marcos.smartins)](https://www.instagram.com/marcos.smartins)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Martins-F7ED34?style=flat-square&logo=Linkedin&logoColor=C4180D&link=https://www.linkedin.com/in/smartinsmarcos)](https://www.linkedin.com/in/smartinsmarcos/)
+[![Gmail Badge](https://img.shields.io/badge/-marcos.kakto@gmail.com-F7ED34?style=flat-square&logo=Gmail&logoColor=C4180D&link=mailto:marcos.kakto@gmail.com)](mailto:marcos.kakto@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@marcos.smartins-F7ED34?style=flat-square&labelColor=F7ED34&logo=instagram&logoColor=C4180D&link=https://www.instagram.com/marcos.smartins)](https://www.instagram.com/marcos.smartins)
